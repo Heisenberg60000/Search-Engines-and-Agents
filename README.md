@@ -16,10 +16,13 @@ LangGraph Agent Builder provides a framework to design intelligent agents capabl
 ## Getting Started
 
 ### Prerequisites
-
-- Python 3.8+
 - LangGraph and relevant API keys for search tools
-
+- utilities uploads necessary libraries and reads necessary API keys
+- User needs to creata a file chatgpt_api_credentials.yml with the following keys
+- openai_api_key: 
+- tavily_api_key: 
+- serpapi_api_key: 
+- serper_api_key: 
 ### Installation
 
 ```bash
